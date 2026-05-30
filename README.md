@@ -1,10 +1,13 @@
 
-# ☾ Nicolly Lima
+# ☆ Nicolly Lima
 
 
 💻 Desenvolvedora Full Stack em formação pela EBAC
+
 🎓 Engenharia de Segurança Cibernética 
+
 🎮 Gosto de FPS, programação e escrever histórias
+
 📍 Paraná, Brasil
 
 ---
@@ -30,6 +33,7 @@
 <img align="center" alt="TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
 <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="Python" height="50" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
 
