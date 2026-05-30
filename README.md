@@ -1,11 +1,11 @@
-```md
+
 # ☾ Nicolly Lima
 
 
-🎓 Bacharelado em Engenharia de Segurança Cibernética  
-💻 Desenvolvedora Full Stack em formação pela EBAC  
-📚 Apaixonada por leitura  
-🎮 FPS é meu gênero favorito
+💻 Desenvolvedora Full Stack em formação pela EBAC
+🎓 Engenharia de Segurança Cibernética 
+🎮 Gosto de FPS, programação e escrever histórias
+📍 Paraná, Brasil
 
 ---
 
