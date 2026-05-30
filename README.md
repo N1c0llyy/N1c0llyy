@@ -1,26 +1,51 @@
-# ✨ Nicolly Lima
+```md
+# ☾ Nicolly Lima
 
 
-
+🎓 Bacharelado em Engenharia de Segurança Cibernética  
 💻 Desenvolvedora Full Stack em formação pela EBAC  
-🎮 Gosto de FPS, programação e escrever histórias  
-🌱 Atualmente estudando React, TypeScript e Redux  
-📍 Paraná, Brasil
+📚 Apaixonada por leitura  
+🎮 FPS é meu gênero favorito
 
 ---
 
-### 🌷 Tecnologias
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N1c0llyy&show_icons=true&theme=transparent&hide_border=true"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-E8D5C4?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-D7C4E8?style=for-the-badge)
-![React](https://img.shields.io/badge/React-C4D9E8?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-F3D1C8?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-D4E8C4?style=for-the-badge)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1c0llyy&layout=compact&theme=transparent&hide_border=true"/>
+</div>
 
 ---
 
-### 💌 Contato
+## 🌷 Tecnologias
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6C3D7?style=for-the-badge)](https://www.linkedin.com/in/nicolly-limaa/)
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D8D8D8?style=for-the-badge)](mailto:nikylima6@gmail.com)
+<img align="center" alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" alt="TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+<img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+</div>
+
+---
+
+## 💌 Onde me encontrar
+
+<div align="center">
+
+<a href="mailto:nikylima6@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-C8B6A6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nicolly-limaa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-A68A7B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+```
