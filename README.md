@@ -15,15 +15,9 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=catppuccin_latte" />
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=catppuccin_latte" />
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1c0llyy&theme=catppuccin_latte" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=catppuccin_latte" />
 
 </div>
 
@@ -53,11 +47,11 @@
 <div align="center">
 
 <a href="mailto:nikylima6@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-C8B6A6?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-B08968?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/nicolly-limaa/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-A68A7B?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/nicolly-limaa/">
+  <img src="https://img.shields.io/badge/LinkedIn-7F5539?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
