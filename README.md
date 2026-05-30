@@ -13,11 +13,11 @@
 ---
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=dracula" />
 
 <br><br>
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=github_dark" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=dracula" />
 
 </div>
 
@@ -43,16 +43,14 @@
 ---
 
 ## 💌 Onde me encontrar
-
 <div align="center">
 
 <a href="mailto:nikylima6@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-B08968?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-FF79C6?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/nicolly-limaa/">
-  <img src="https://img.shields.io/badge/LinkedIn-7F5539?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </div>
-```
