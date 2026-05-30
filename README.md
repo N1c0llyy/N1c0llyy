@@ -21,7 +21,7 @@
 
 </div>
 
-──── ୨୧ ────
+
 
 ## ✮⋆˙Tecnologias
 
@@ -40,9 +40,9 @@
 
 </div>
 
-──── ୨୧ ────
 
-## ╰┈➤ Onde me encontrar
+
+## 𝜗ৎ Onde me encontrar
 <div align="center">
 
 <a href="mailto:nikylima6@gmail.com">
