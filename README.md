@@ -4,13 +4,13 @@
 
 💻 Desenvolvedora Full Stack em formação pela EBAC
 
-🎓 Engenharia de Segurança Cibernética 
+🎓 Engenharia de Segurança Cibernética (2º período)
 
-🎮 Gosto de FPS, programação e escrever histórias
+🎮 Gosto de FPS, programação, ler e escrever histórias
 
 📍 Paraná, Brasil
 
----
+────୨ৎ────
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=dracula" />
@@ -21,9 +21,9 @@
 
 </div>
 
----
+──── ୨୧ ────
 
-## 🌷 Tecnologias
+## ✮⋆˙Tecnologias
 
 <div align="center">
 
@@ -40,9 +40,9 @@
 
 </div>
 
----
+──── ୨୧ ────
 
-## 💌 Onde me encontrar
+## ╰┈➤ Onde me encontrar
 <div align="center">
 
 <a href="mailto:nikylima6@gmail.com">
