@@ -11,11 +11,20 @@
 📍 Paraná, Brasil
 
 ---
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=rose_pine" />
+
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=tokyonight" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1c0llyy&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=rose_pine" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1c0llyy&theme=rose_pine" />
+
 </div>
 
 ---
