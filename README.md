@@ -13,7 +13,7 @@
 ---
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=rose_pine" />
 
 </div>
 
@@ -21,9 +21,9 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=rose_pine" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1c0llyy&theme=tokyonight" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1c0llyy&theme=rose_pine" />
 
 </div>
 
