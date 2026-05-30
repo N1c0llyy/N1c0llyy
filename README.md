@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N1c0llyy&show_icons=true&theme=transparent&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=tokyonight" />
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1c0llyy&layout=compact&theme=transparent&hide_border=true"/>
 </div>
