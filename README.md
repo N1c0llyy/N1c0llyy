@@ -13,11 +13,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=nord_bright" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=github_dark" />
 
 <br><br>
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=nord_bright" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=github_dark" />
 
 </div>
 
