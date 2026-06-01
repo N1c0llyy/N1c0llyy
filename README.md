@@ -1,7 +1,6 @@
 
 # ☆ Nicolly Lima
 
-
 💻 Desenvolvedora Full Stack em formação pela EBAC
 
 🎓 Engenharia de Segurança Cibernética (2º período)
@@ -10,20 +9,19 @@
 
 📍 Paraná, Brasil
 
-────୨ৎ────
+---
+
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=dracula" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=dracula" alt="Profile Details" />
 
 <br><br>
 
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=dracula" />
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=dracula" alt="Languages" />
 
 </div>
 
-
-
-## ✮⋆˙Tecnologias
+## ✮⋆˙ Tecnologias
 
 <div align="center">
 
@@ -36,13 +34,13 @@
 <img align="center" alt="TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
 <img align="center" alt="React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Python" height="50" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
 
-
-
 ## 𝜗ৎ Onde me encontrar
+
 <div align="center">
 
 <a href="mailto:nikylima6@gmail.com">
@@ -54,3 +52,4 @@
 </a>
 
 </div>
+```
