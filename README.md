@@ -3,7 +3,7 @@
 
 💻 Desenvolvedora Full Stack em formação pela EBAC
 
-🎓 Engenharia de Segurança Cibernética (2º período)
+🎓 Engenharia de Segurança Cibernética pela UNICV
 
 🎮 Gosto de FPS, programação, ler e escrever histórias
 
