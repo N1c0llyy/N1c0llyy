@@ -31,10 +31,6 @@ Gosto de aprender na prática e venho desenvolvendo projetos para aprimorar minh
 
 </div>
 
-<img src="https://streak-stats.demolab.com?user=N1c0llyy&theme=radical&hide_border=true"/>
-
-</div>
-
 ---
 
 ## Contato
