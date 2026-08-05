@@ -46,7 +46,7 @@ Gosto de aprender na prática e venho desenvolvendo projetos para aprimorar minh
 <img src="https://img.shields.io/badge/Gmail-B71C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/nicolly-lima-708a932b/" target="_blank">
+<a href="https://www.linkedin.com/in/nicolly-lima" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
