@@ -22,11 +22,11 @@ Gosto de aprender na prática e venho desenvolvendo projetos para aprimorar minh
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=N1c0llyy&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=N1c0llyy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1c0llyy&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1c0llyy&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
