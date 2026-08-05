@@ -22,9 +22,11 @@ Gosto de aprender na prática e venho desenvolvendo projetos para aprimorar minh
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=N1c0llyy&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=N1c0llyy&show_icons=true&theme=radical"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1c0llyy&layout=compact&theme=radical&hide_border=true"/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1c0llyy&layout=compact&theme=radical"/>
 
 </div>
 
@@ -46,7 +48,7 @@ Gosto de aprender na prática e venho desenvolvendo projetos para aprimorar minh
 <img src="https://img.shields.io/badge/Gmail-B71C1C?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/nicolly-lima" target="_blank">
+<a href="https://www.linkedin.com/in/nicolly-limaa/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
