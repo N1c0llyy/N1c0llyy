@@ -1,8 +1,10 @@
 ## Sobre mim
 
-Olá! Me chamo **Nicolly Lima** e sou estudante de Desenvolvimento Full Stack pela EBAC e bacharelanda em Engenharia de Segurança Cibernética pela UNICV.
-Tenho interesse em desenvolvimento web, backend com Python e segurança da informação. Ao longo dos meus estudos, venho desenvolvendo projetos para aprimorar meus conhecimentos em tecnologias como Python, Django, React, TypeScript, APIs, Docker e bancos de dados.
-Atualmente, estou construindo meu portfólio e buscando minha primeira oportunidade na área de tecnologia, com o objetivo de continuar aprendendo, adquirir experiência e crescer profissionalmente.
+Olá! Me chamo **Nicolly Lima** e atualmente curso Desenvolvimento Full Stack pela EBAC e Engenharia de Segurança Cibernética pela UNICV.
+
+Tenho interesse em desenvolvimento web e backend com Python, e utilizo meus projetos como forma de praticar e ampliar meus conhecimentos. Estou construindo meu portfólio enquanto busco minha primeira oportunidade na área de tecnologia.
+
+
 
 ---
 
@@ -18,29 +20,19 @@ Atualmente, estou construindo meu portfólio e buscando minha primeira oportunid
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=N1c0llyy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<br><br>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=radical"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N1c0llyy&theme=radical"/>
-
-<br><br>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=N1c0llyy&theme=radical"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=N1c0llyy&theme=radical&utcOffset=-3"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1c0llyy&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
 </div>
 
 <br>
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=N1c0llyy&show_icons=true&theme=radical&hide_border=true"/>
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1c0llyy&layout=compact&theme=radical&hide_border=true"/>
-</p>
+<img width="70%" src="https://streak-stats.demolab.com?user=N1c0llyy&theme=radical&hide_border=true"/>
+
+</div>
 
 ---
 
