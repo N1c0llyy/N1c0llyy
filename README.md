@@ -17,20 +17,19 @@ Gosto de aprender na prática e venho desenvolvendo projetos para aprimorar minh
 </div>
 
 ---
-
 ## Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=N1c0llyy&show_icons=true&theme=radical&hide_border=true"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N1c0llyy&theme=radical"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1c0llyy&layout=compact&theme=radical&hide_border=true"/>
+<br><br>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1c0llyy&theme=radical"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=N1c0llyy&show_icons=true&theme=radical&hide_border=true"/>
 
 </div>
-
-<br>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=N1c0llyy&theme=radical&hide_border=true"/>
 
