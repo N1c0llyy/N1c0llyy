@@ -6,6 +6,8 @@ Sou estudante de **Desenvolvimento Full Stack** e de **Engenharia de Segurança 
 
 Gosto de aprender na prática e venho desenvolvendo projetos para aprimorar minhas habilidades em lógica de programação, bancos de dados e desenvolvimento web. Estou construindo meu portfólio enquanto busco minha primeira oportunidade na área de tecnologia, com o objetivo de crescer profissionalmente e aplicar meus conhecimentos em novos desafios.
 
+🌐 **Confira meu portfólio:** [portfolionicollylima.lovable.app](https://portfolionicollylima.lovable.app)
+
 ---
 
 ## Tecnologias
@@ -17,6 +19,7 @@ Gosto de aprender na prática e venho desenvolvendo projetos para aprimorar minh
 </div>
 
 ---
+
 ## Estatísticas
 
 <div align="center">
@@ -43,6 +46,10 @@ Gosto de aprender na prática e venho desenvolvendo projetos para aprimorar minh
 
 <a href="https://www.linkedin.com/in/nicolly-limaa/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolionicollylima.lovable.app" target="_blank">
+<img src="https://img.shields.io/badge/Portfólio-B71C1C?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </div>
